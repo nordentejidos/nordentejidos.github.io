@@ -1123,7 +1123,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rZoU2JZILD H1 {
-  color: #232323;
+  color: #343434;
 }
 .cid-rZoU2JZILD .mbr-text,
 .cid-rZoU2JZILD .mbr-section-btn {
@@ -1148,6 +1148,9 @@ section.lazy-placeholder:after {
 }
 .cid-rZMGdXb5Yl .card-wrapper {
   height: 100%;
+}
+.cid-rZMGdXb5Yl .card-title {
+  color: #343434;
 }
 .cid-rZMTGFhWcG {
   padding-top: 120px;
