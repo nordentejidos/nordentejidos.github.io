@@ -83,7 +83,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "htmltag": false,
+    "htmltag": "false",
     "witsec-white-label": true
   },
   "pages": {
