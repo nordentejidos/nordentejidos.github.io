@@ -2518,6 +2518,16 @@ section.lazy-placeholder:after {
     padding-left: 30px;
   }
 }
+@media screen and (max-width: 600px) {
+  .cid-s6c2lwg1nZ .map_mobile {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
 .cid-s6c2rf7hIs {
   padding-top: 45px;
   padding-bottom: 30px;
