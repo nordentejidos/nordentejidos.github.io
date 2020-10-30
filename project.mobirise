@@ -74,7 +74,7 @@
     "uniqCompNum": 71,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "sitemapSwitcher": false,
